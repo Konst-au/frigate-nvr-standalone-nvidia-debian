@@ -202,3 +202,5 @@ Filename format: `2026-03-26__08.01.02_front_person.mp4`
 - AI assistance: $34 Claude Pro subscription
 
 Total: **$34** and approximately 10 evenings of your life.
+
+I posted the battle on my Facebook as well: https://www.facebook.com/share/p/17pmERFHv2/ 
