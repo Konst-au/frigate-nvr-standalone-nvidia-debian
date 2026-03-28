@@ -1,6 +1,3 @@
-# frigate-nvr-standalone-nvidia-debian
-Frigate NVR on bare-metal Debian 12 — no Home Assistant, NVIDIA GPU acceleration, YOLOv9c ONNX, auto Google Drive sync. Full build guide + configs.
-
 # Frigate NVR — Self-Hosted AI Security Camera System
 
 ## Production Setup on Debian 12 with NVIDIA GPU, YOLOv9c ONNX, and Overhead Camera Workarounds
